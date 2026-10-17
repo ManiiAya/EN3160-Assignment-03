@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+
+# Datasets
+data/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Trained model weights
+*.pt
+*.pth
+*.ckpt
+
+# Temporary files
+*.tmp
+.DS_Store
+Thumbs.db

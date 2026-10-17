@@ -1,0 +1,10 @@
+numpy
+matplotlib
+pandas
+scikit-learn
+seaborn
+Pillow
+tqdm
+ipykernel
+jupyterlab
+nbconvert[webpdf]
